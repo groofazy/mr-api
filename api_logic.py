@@ -69,4 +69,9 @@ def test_get_hero_stats():
     print(result)
     print_hero_stats(result)
 
-test_get_hero_stats()
+# test_get_hero_stats()
+
+def get_player_creds(query: str):
+    url = 
+    test_user = "keuandhsk"
+    
